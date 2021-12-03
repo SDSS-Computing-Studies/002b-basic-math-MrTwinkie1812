@@ -5,3 +5,4 @@
 x = 10
 y = 4
 answer = x + y
+print (answer)
